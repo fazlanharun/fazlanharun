@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 I'm Fazlan, a self-taught data analyst from 🇲🇾 Malaysia.
 
 ✨ About Me in 30 Secs ✨
--🏻‍💻 Mechanical Engineering fresh graduate turned data analyst
--📊 Starting building skill in data analytics since August 2021 
--📝 Taught myself Excel, Python, SQL, and Tableau
-💡 Core Competencies
--Tools: Microsoft Excel, Python,  SQL,Tableau
--Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Database, Dashboard Design
+-   🏻‍💻 Mechanical Engineering fresh graduate turned data analyst
+- 📊 Starting building skill in data analytics since August 2021 
+- 📝 Taught myself Excel, Python, SQL, and Tableau
+
+ 💡 Core Competencies
+- Tools: Microsoft Excel, Python,  SQL,Tableau
+- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Database, Dashboard Design
+
 📚 Projects & Guides
 Click HERE for my projects and guides.
+
 🙌🏻 Connect with Me
--LinkedIn
+- LinkedIn
