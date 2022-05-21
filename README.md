@@ -24,9 +24,3 @@ I'm Fazlan, a self-taught data analyst from 🇲🇾 Malaysia.
  💡 Core Competencies
 - Tools: Microsoft Excel, Python,  SQL,Tableau
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Database, Dashboard Design
-
-📚 Projects & Guides
-Click HERE for my projects and guides.
-
-🙌🏻 Connect with Me
-- LinkedIn
