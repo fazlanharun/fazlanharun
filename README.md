@@ -19,8 +19,8 @@ I'm Fazlan, a self-taught data analyst from 🇲🇾 Malaysia.
 ✨ About Me in 30 Secs ✨
 -   🏻‍💻 Mechanical Engineering fresh graduate turned data analyst
 - 📊 Starting building skill in data analytics since August 2021 
-- 📝 Taught myself Excel, Python, SQL, and Tableau
+- 📝 Taught myself Excel, Python, SQL, and Power BI, Tableau
 
  💡 Core Competencies
-- Tools: Microsoft Excel, Python,  SQL,Tableau
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Database, Dashboard Design
+- Tools: Microsoft Excel, Python,  SQL, Power BI
+- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design
