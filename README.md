@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Fazlan, a self-taught data analyst from 🇲🇾 Malaysia.
+I'm Fazlan, a self-taught data engineer from 🇲🇾 Malaysia.
 
 ✨ About Me in 30 Secs ✨
--   🏻‍💻 Mechanical Engineering fresh graduate turned data analyst
-- 📝 Taught myself Excel, Python, SQL, Power BI
+-   🏻‍💻 Mechanical Engineering  graduate turned data engineer
+
 
  💡 Core Competencies
-- Tools: Microsoft Excel, Python,  SQL, Power BI
+- Tools: Python, SQL, Databrick on AWS,  Power BI, Postgres.
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design
