@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 I'm Fazlan, a self-taught data engineer from 🇲🇾 Malaysia.
 
 ✨ About Me in 30 Secs ✨
--   🏻‍💻 Mechanical Engineering  graduate turned data engineer
 -   I’m a resourceful and analytical data engineer who thrives on building reproducible, audit-safe workflows.
 -   My portfolio includes a modular ETL pipeline orchestrated with Apache Airflow and Docker, and a cloud-native Lakehouse architecture using Databricks and Delta Lake on AWS.
 -    I specialize in designing scalable data systems—from ingestion to transformation to BI integration—while maintaining operational clarity and documentation for future reuse.   
