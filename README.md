@@ -23,5 +23,5 @@ I'm Fazlan, a self-taught data engineer from 🇲🇾 Malaysia.
 
 
  💡 Core Competencies
-- Tools: Python, SQL, Databrick on AWS,  Power BI, Postgres.
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Dashboard Design
+- Tools: Python, SQL, Databrick on AWS,  Power BI, Postgres, dbt, Bigquery.
+- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Data Modeling, Data Warehouse, Data Pipeline.
